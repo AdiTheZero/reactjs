@@ -1,0 +1,20 @@
+.pomodoro-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .timer {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .session-type {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .cycle-count {
+    font-size: 18px;
+    color: gray;
+  }
+  
